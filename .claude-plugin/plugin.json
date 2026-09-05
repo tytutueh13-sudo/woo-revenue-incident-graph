@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "woo-revenue-incident-graph",
+  "version": "0.2.2",
+  "description": "Investigate WooCommerce checkout and revenue changes with privacy-safe store signals and public release evidence.",
+  "author": {
+    "name": "UtilityHouse",
+    "url": "https://utilityhouse.xyz/about"
+  },
+  "homepage": "https://revenue-graph.utilityhouse.xyz/",
+  "repository": "https://github.com/tytutueh13-sudo/woo-revenue-incident-graph",
+  "license": "MIT",
+  "keywords": ["woocommerce", "incident-response", "revenue", "mcp"]
+}
